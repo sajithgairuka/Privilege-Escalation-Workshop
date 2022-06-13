@@ -13,7 +13,7 @@ The workshop is based on the attack tree below, which covers all known (at the t
 
 * [Workshop Slide Deck](https://github.com/sagishahar/lpeworkshop/blob/master/Local%20Privilege%20Escalation%20Workshop%20-%20Slides.pdf)
 * Exercise Worksheets ([Linux](https://github.com/sagishahar/lpeworkshop/blob/master/Lab%20Exercises%20Walkthrough%20-%20Linux.pdf), [Windows](https://github.com/sagishahar/lpeworkshop/blob/master/Lab%20Exercises%20Walkthrough%20-%20Windows.pdf))
-* Updated Document ([Widows](https://github.com/sajithgairuka/Privilege-Escalation-Workshop/raw/master/Windows%20Local%20Privilege%20Escalation.docx))
+* Updated Document ([Widows](https://github.com/sajithgairuka/Privilege-Escalation-Workshop/raw/master/Windows%20Local%20Privilege%20Escalation%20(walkthrough).pdf))
 * [Lab VM for Linux Exercises](https://drive.google.com/file/d/0B6EDpYQYL72rQ2VuWS1QR2ZsUlU/view?usp=sharing) (username: user / password: password321, username: root / password: password123)
 * [Kali VM for Linux/Windows Exercises](https://drive.google.com/file/d/0B6EDpYQYL72rOElKNGhiLUdzdlE/view?usp=sharing) (root:toor)
 * [Videos for Windows Exercises](https://www.youtube.com/playlist?list=PLjG9EfEtwbvIrGFTx4XctK8IxkUJkAEqP)
